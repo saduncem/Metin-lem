@@ -17,3 +17,16 @@ E:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\obj\Debug\MetinKarsilastir
 C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\bin\Debug\MetinKarsilastirma.exe.config
 C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\obj\Debug\MetinKarsilastirma.csproj.ResolveComReference.cache
 C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\obj\Debug\MetinKarsilastirma.pdb
+C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\bin\Debug\MetinKarsilastirma.exe
+C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\bin\Debug\MetinKarsilastirma.pdb
+C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\bin\Debug\itextsharp.dll
+C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\bin\Debug\log4net.dll
+C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\bin\Debug\NZemberek.dll
+C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\bin\Debug\Iesi.Collections.Generic.dll
+C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\bin\Debug\Iesi.Collections.dll
+C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\bin\Debug\itextsharp.xml
+C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\obj\Debug\MetinKarsilastirma.csprojResolveAssemblyReference.cache
+C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\obj\Debug\MetinKarsilastirma.Form1.resources
+C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\obj\Debug\MetinKarsilastirma.Properties.Resources.resources
+C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\obj\Debug\MetinKarsilastirma.csproj.GenerateResource.Cache
+C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\obj\Debug\MetinKarsilastirma.exe
