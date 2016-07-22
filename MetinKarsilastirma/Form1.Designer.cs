@@ -126,7 +126,7 @@
             // 
             // btn2dosya
             // 
-            this.btn2dosya.Location = new System.Drawing.Point(423, 2);
+            this.btn2dosya.Location = new System.Drawing.Point(459, 2);
             this.btn2dosya.Name = "btn2dosya";
             this.btn2dosya.Size = new System.Drawing.Size(119, 53);
             this.btn2dosya.TabIndex = 0;

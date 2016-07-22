@@ -1,0 +1,15 @@
+C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\bin\Release\MetinKarsilastirma.exe.config
+C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\bin\Release\MetinKarsilastirma.exe
+C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\bin\Release\MetinKarsilastirma.pdb
+C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\bin\Release\itextsharp.dll
+C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\bin\Release\log4net.dll
+C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\bin\Release\NZemberek.dll
+C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\bin\Release\Iesi.Collections.Generic.dll
+C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\bin\Release\Iesi.Collections.dll
+C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\bin\Release\itextsharp.xml
+C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\obj\Release\MetinKarsilastirma.csproj.ResolveComReference.cache
+C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\obj\Release\MetinKarsilastirma.Form1.resources
+C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\obj\Release\MetinKarsilastirma.Properties.Resources.resources
+C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\obj\Release\MetinKarsilastirma.csproj.GenerateResource.Cache
+C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\obj\Release\MetinKarsilastirma.exe
+C:\Cemworkspace\MetinKarsilastirma\MetinKarsilastirma\obj\Release\MetinKarsilastirma.pdb
