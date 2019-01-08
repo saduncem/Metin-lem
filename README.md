@@ -1,3 +1,2 @@
-# Metin-lem
+Girilen 2 metni anlamsal ve  kelime eşitliğine göre size ne kadar benzediğini söyler.
 
-Txt ile gösterilen 2 metin dosyasını anlam ve yapısal olarak karşılaştırır.
